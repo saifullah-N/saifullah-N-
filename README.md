@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifullah-N
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in web-3 & front-end development
+- 🌱 I’m currently Level-2 member at iQube
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
